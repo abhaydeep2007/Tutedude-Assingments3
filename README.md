@@ -12,5 +12,5 @@ Description:This script defines a function named factorial that takes a number a
 
 Task: Using the Math Module for Calculations.
 
-Description:This script utilizes Python's built-in math module to perform calculations on user input. It calculates:Square rootNatural logarithm (log base e)Sine (in radians)
+Description:This script utilizes Python's built-in math module to perform calculations on user input. It calculates Square rootNatural logarithm (log base e)Sine (in radians)
 
