@@ -14,4 +14,3 @@ Task: Using the Math Module for Calculations.
 
 Description:This script utilizes Python's built-in math module to perform calculations on user input. It calculates:Square rootNatural logarithm (log base e)Sine (in radians)
 
-Usage:python task2_math_operations.py
